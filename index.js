@@ -64,9 +64,9 @@ function onUnityEndLoad() {
 var buildUrl = "Build";
 var loaderUrl = buildUrl + "/WhackMole_Build3.loader.js";
 var config = {
-  dataUrl: buildUrl + "/WhackMole_Build3.data.br",
-  frameworkUrl: buildUrl + "/WhackMole_Build3.framework.js.br",
-    codeUrl: buildUrl + "/WhackMole_Build3.wasm.br",
+  dataUrl: buildUrl + "/WhackMole_Build3.data",
+  frameworkUrl: buildUrl + "/WhackMole_Build3.framework.js",
+    codeUrl: buildUrl + "/WhackMole_Build3.wasm",
     streamingAssetsUrl: "StreamingAssets",
   companyName: "/DefaultCompany",
   productName: "/M1_WhackaMoleWIF",
